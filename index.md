@@ -6,6 +6,7 @@
 4. Bread 🍞
 5. Book
 6. pen
+7. Water bottles
 
 
 // TODO: add more items to the shopping list.
